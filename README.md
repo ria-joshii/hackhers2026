@@ -15,11 +15,6 @@ As international students who have lived across different countries, we’ve exp
 
 Every transfer required guesswork.
 
-We kept asking:
-
-> Why doesn’t sending money internationally feel like booking a flight?
-
-When booking travel, you instantly compare price, time, and trade-offs.  
 For cross-border transfers, no intelligent comparison layer exists.
 
 So we built one.
